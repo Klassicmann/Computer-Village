@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897138236824",
+    "project_id": "computer-village-8abd5",
+    "storage_bucket": "computer-village-8abd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897138236824:android:e09e064884ef9e486d9fed",
+        "android_client_info": {
+          "package_name": "com.example.cv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897138236824-5f7sc1nmdvuiknml01qpopf4qgq2lrs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIcfrhW5MXRlGeUIbFfYLxvUNAwihUpNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897138236824-5f7sc1nmdvuiknml01qpopf4qgq2lrs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
